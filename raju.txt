@@ -1,2 +1,4 @@
 raju is a good boy
-he is always good boy
+ Name: Rajesh
+ Age:18
+ Class:10th
