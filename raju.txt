@@ -1,5 +1,10 @@
 raju is a good boy
+<<<<<<< HEAD
 he is always good boy
 Name: Raj
 Age:18
+=======
+Name: Raju
+Age:19
+>>>>>>> UDN
 Class:10th
