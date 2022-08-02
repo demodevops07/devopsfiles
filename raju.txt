@@ -1,2 +1,5 @@
 raju is a good boy
 he is always good boy
+Name: Raj
+Age:18
+Class:10th
