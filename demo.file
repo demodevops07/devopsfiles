@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "***********Root File System Space********
+df -h
+echo "*********** display today date***********
+date
+echo "jenkins free space"
+free -m

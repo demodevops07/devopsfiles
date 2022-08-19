@@ -1,2 +1,0 @@
-# devopsfiles
-For devops Files
